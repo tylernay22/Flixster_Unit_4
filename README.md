@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'https://imgur.com/a/Ua0bY4J' />
+< />![Flixster Unit 4](https://user-images.githubusercontent.com/112593985/194994287-ae276c7f-3d91-4a8d-b871-3a8a082e7fbc.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
